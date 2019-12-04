@@ -1,0 +1,29 @@
+#main {
+    margin-top: 15vh;
+}
+
+#hero {
+    width: 150px;
+    height: 150px;
+}
+
+#hero-name {
+    padding-top: 3vh;
+}
+
+#nav-col {
+    position: sticky;
+}
+
+/*.mynav {
+    position: fixed;
+}*/
+
+.mynav ul li {
+    display: block;
+    padding-top: 2vh;
+}
+
+#boss {
+    margin-top: 5vh;
+}
